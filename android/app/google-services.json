@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101080127712",
+    "project_id": "flashchat-710ae",
+    "storage_bucket": "flashchat-710ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101080127712:android:48e4b19faa3daceb6ed885",
+        "android_client_info": {
+          "package_name": "com.PedroAldama.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101080127712-6u7lrblute7ups8ipfn38bfa7kjlmqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQpZmhtJM1X7eMCT0ZqomhD6l0lMp68g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101080127712-6u7lrblute7ups8ipfn38bfa7kjlmqa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
