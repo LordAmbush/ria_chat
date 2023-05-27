@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 Color gptBackgroundColor = const Color(0xFF343541);
 Color gptCardColor = const Color(0xFF444654);
-String openAiKey = "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";
+String openAiKey = "YOUR_API_KEY";
 String baseUrl = "https://api.openai.com/v1";
 
 const kGptTextStyle = TextStyle(
