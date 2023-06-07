@@ -38,7 +38,7 @@ Base de datos en tiempo real: Firebase Realtime Database es una base de datos en
 
 >Funciones en la nube: Firebase Functions permite implementar y ejecutar código en la nube de forma escalable. Los desarrolladores pueden crear funciones que respondan a eventos en sus aplicaciones y realizar tareas como el procesamiento de imágenes, el envío de correos electrónicos y la integración con servicios externos.
 
-**API:** ChatGPT 
+**API:** OpenAi
 
 >Al utilizar la API REST de ChatGPT, se pueden enviar solicitudes POST para realizar conversaciones con el modelo. Cada solicitud incluye un mensaje de entrada que representa el texto del usuario y el contexto actual de la conversación. El modelo responderá con un mensaje de salida que se puede mostrar al usuario.
 
