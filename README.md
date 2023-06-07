@@ -146,3 +146,8 @@ Prepare la ejecución y pruebas de app de Flutter en el emulador de Android, sig
 [![1.png](https://i.postimg.cc/8cJd20z9/1.png)](https://postimg.cc/Cn0fDJDs)
 [![2.png](https://i.postimg.cc/B6R9Z4HJ/2.png)](https://postimg.cc/LYk0NdxW)
 
+...
+
+Nota: Cambiar el valor de la variable openAiKey que se encuentra dentro de la carpeta lib, en el archivo constants.dart linea 5 por una key generada en https://platform.openai.com/account/api-keys
+
+...
