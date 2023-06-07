@@ -141,5 +141,5 @@ Prepare la ejecución y pruebas de app de Flutter en el emulador de Android, sig
 
 # Mock ups y Mapa de navegación
 [![1.png](https://i.postimg.cc/8cJd20z9/1.png)](https://postimg.cc/Cn0fDJDs)
-[![2.png](https://i.postimg.cc/FRW8WmDj/2.png)](https://postimg.cc/PpDSNGGx)
+[![2.png](https://i.postimg.cc/B6R9Z4HJ/2.png)](https://postimg.cc/LYk0NdxW)
 
