@@ -6,11 +6,13 @@
 **Para**  poder hacer uso de las funcionalidades del sistema
 >
 **H02 : Chatear**
+>
 **Yo como**  Usuario
 **Deseo**  enviar un mensaje al chat grupal
 **Para**  recibir una respuesta de chat grupal
 >
 **H03 : Consulta a OpenAi**
+>
 **Yo como**  Usuario
 **Deseo**  hacer una consulta a la AI seleccionada
 **Para**  recibir una respuesta de  la AI seleccionada
