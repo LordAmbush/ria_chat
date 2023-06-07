@@ -139,6 +139,6 @@ Prepare la ejecución y pruebas de app de Flutter en el emulador de Android, sig
 7.  En el Administrador de Dispositivos Virtuales de Android (AVD), da clic en la barra de herramienta  **Run**. El emulador iniciará el arranque y mostrará el lienzo (canvas) por defecto para la versión del SO y dispositivo seleccionado.
 
 
-#Mock ups y Mapa de navegación
+# Mock ups y Mapa de navegación
 [![1.png](https://i.postimg.cc/8cJd20z9/1.png)](https://postimg.cc/Cn0fDJDs)
 
